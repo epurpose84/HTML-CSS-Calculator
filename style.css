@@ -6,7 +6,7 @@ body{
 }
 
 #container{
-    height: 255px;
+    height: 232px;
     width: 170px;
     margin: 30px auto;
     padding: 2px;
@@ -14,9 +14,9 @@ body{
     background-color: aliceblue;
 }
 
-#output{
-    height: 50px;
-    border-radius: 7px;
+#screen{
+    height: 20px;  
+    width: 159px;
     background-color: aliceblue;
 }
 
@@ -43,25 +43,25 @@ body{
 }
 
 button:nth-child(5){
-    font-size: 18px;
+    font-size: 12px;
     background-color: #20b2aa;
 }
 
 button:nth-child(9){
-    font-size: 18px;
+    font-size: 12px;
     background-color: #ffa500;
 }
 
 button:nth-child(13){
-    font-size: 18px;
+    font-size: 12px;
     background-color: #f08080;
 }
 
 button:nth-child(17){
-    font-size: 18px;
+    font-size: 13px;
     background-color: #7d93e0;
 }
 button:nth-child(21){
-    font-size: 18px;
+    font-size: 12px;
     background-color: #9477af;
 }
